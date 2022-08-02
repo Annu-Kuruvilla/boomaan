@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Achievements-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "boomaan about"
+	}
+}
